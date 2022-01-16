@@ -1,0 +1,15 @@
+
+Q
+java:S3740N"/Provide the parametrized type for this generic.(ûƒ‹´ıÿÿÿÿ8îÀ™áä/
+
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ¢ã‡8ªëşÃä/
+
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã£Æ8«ëşÃä/
+£
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿œ³ıÿÿÿÿ8«ëşÃä/
+“
+java:S13193"vThe type of the "annotationsMap" object should be an interface such as "Map" rather than the implementation "HashMap".(âø‚®8½ëşÃä/
+
+java:S13193"sThe type of the "dropDownMap" object should be an interface such as "Map" rather than the implementation "HashMap".(âø‚®8½ëşÃä/
+L
+java:S5411I"*Use the primitive boolean expression here.(ÑÉ‚İûÿÿÿÿ8¾ëşÃä/

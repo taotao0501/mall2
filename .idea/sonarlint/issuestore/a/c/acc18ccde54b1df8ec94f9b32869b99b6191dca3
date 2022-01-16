@@ -1,0 +1,21 @@
+
+p
+java:S3008"ZRename this field "FILE_UPLOAD_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÜß
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(âîÕ‘ûÿÿÿÿ
+^
+java:S1214"CMove constants defined in this interfaces to another class or enum.(Šá„ûşÿÿÿÿ
+T
+java:S2386"9Move "PRICE_ASC_DESC" to a class and lower its visibility(°ìÚ·şÿÿÿÿ
+^
+java:S1214"CMove constants defined in this interfaces to another class or enum.(’Ğ„¶ÿÿÿÿÿ
+Y
+java:S1214%"CMove constants defined in this interfaces to another class or enum.(ùí÷¦
+W
+java:S3066G"<Lower the visibility of this setter or remove it altogether.(µœª§ûÿÿÿÿ
+W
+java:S3066O"<Lower the visibility of this setter or remove it altogether.(æ±±¬øÿÿÿÿ
+q
+java:S1104"[Make FILE_UPLOAD_DIR a static final constant or non-public and provide accessors if needed.(îÜß
+K
+java:S1444"5Make this "public static FILE_UPLOAD_DIR" field final(îÜß

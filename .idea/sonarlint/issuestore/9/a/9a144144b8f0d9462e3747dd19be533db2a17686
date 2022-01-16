@@ -1,0 +1,33 @@
+
+J
+java:S3740G"/Provide the parametrized type for this generic.(æ«Äòøÿÿÿÿ
+J
+java:S3740f"/Provide the parametrized type for this generic.(æ«Äòøÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(æ«Äòøÿÿÿÿ
+K
+java:S3740œ"/Provide the parametrized type for this generic.(æ«Äòøÿÿÿÿ
+K
+java:S3740¨"/Provide the parametrized type for this generic.(æ«Äòøÿÿÿÿ
+K
+java:S3740³"/Provide the parametrized type for this generic.(æ«Äòøÿÿÿÿ
+y
+java:S1845²"bRename method "getALlweekDays" to prevent any misunderstanding/clash with method "getAllweekDays".(¬ Á
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒàŒ“úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯Êó”şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(œ™À
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ù‚ôıÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ëë¢Ø
+M	java:S106("9Replace this use of System.out or System.err by a logger.(Ú”²)
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ëë¢Ø
+6
+java:S28853" Make "sdf" an instance variable.(îñé¥
+V	java:S1259"<This block of commented-out lines of code should be removed.(…¶Õ·øÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(¦Æ¢ûıÿÿÿÿ
+M
+java:S1135Y"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(…¶Õ·øÿÿÿÿ
+V	java:S125p"<This block of commented-out lines of code should be removed.(¦Æ¢ûıÿÿÿÿ
+a
+java:S11923"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(îñé¥
